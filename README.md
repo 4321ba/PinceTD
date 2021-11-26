@@ -8,3 +8,5 @@ Programom egy toronyvédő (Tower Defence) típusú játék, a játékos által 
 Fordított verzió Linuxra és Windowsra letölthető a [kiadásoknál](https://github.com/4321ba/PinceTD/releases).
 
 Specifikáció és dokumentációk: [itt](dokumentacio/dokumentacio.md).
+
+A Program fordításához és futtatásához az SDL2 minimum szükséges verziója a 2.0.10!

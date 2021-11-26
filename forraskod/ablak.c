@@ -1,3 +1,4 @@
+#include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
 #include <SDL2/SDL.h>
@@ -18,7 +19,8 @@ SDL_Renderer *szerez_megjelenito(void) {
 
 // ablakadabra! - ablak megnyitása
 void sdl_inicializacio(int szelesseg, int magassag, MegjTipus megjelenites) {
-    if (SDL_Init(SDL_INIT_EVERYTHING) < 0) {
+    if (SDL_Init(SDL_INIT_EVERYTHING) < 0) { // ha a szenzorral baja van pl a Wine-nak, akkor SDL_INIT_EVERYTHING lecserélhető erre:
+        // SDL_INIT_TIMER | SDL_INIT_AUDIO | SDL_INIT_VIDEO | SDL_INIT_EVENTS | SDL_INIT_JOYSTICK | SDL_INIT_HAPTIC | SDL_INIT_GAMECONTROLLER /*| SDL_INIT_SENSOR*/
         fprintf(stderr, "Nem indítható az SDL: %s\n", SDL_GetError());
         exit(1);
     }
