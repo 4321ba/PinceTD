@@ -1,0 +1,26 @@
+l l l
+l   l   l   l   l   l   l   l
+l  l  l  l  l l l
+l l l l l l l l l l l l l l l l
+lll  llllllll
+o     l l  l l
+llll  o  o  o
+o o o ll ll   ooo
+ooo o o o    llllllll
+llloo   l l l l o o o o
+d   l l o l o o
+oooooo   llll llll llll llll
+d   d    o o l l o  d
+dd  llllllllll  o d o d l
+oooooollllllddd
+l l l l l l o o d d    D
+dddddd  Dlll Do  o  o  o  oo
+D  D  lll lld oooo  llllllll  D
+ollooo dd ddd o D D D
+D D D D D  l  o  l  o  dddd D
+o   oo   ooo   oooo    O O
+llloo  D D D  O O O
+DD  OOO  l l l  dododo D D D
+OOOOO doldol DDDD
+OOODDD   lll  oooddd OOO  OOOO
+DDDDOOOO    DDOODO   dddddddoooo    l
