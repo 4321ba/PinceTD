@@ -1,6 +1,8 @@
 # PinceTD
 A tower defence game in C with SDL2 as a university homework assignment.
 
+Játssz vele [online](https://entercomgroup.hu/22-23elott/PinceTD/index.html), vagy nézd meg [InfoC-n](https://infoc.eet.bme.hu/nhfgaleria2021/#70) (ha épp elérhető)!
+
 Programom egy toronyvédő (Tower Defence) típusú játék, a játékos által lerakott tornyoknak kell lelőni az ellenségeket, mielőtt azok célba jutnak. A tornyok lövés előtt kiszámolják, hogy mennyi időbe telik, amíg a lövedék eljut az ellenségig, és annyi idő múlva hol lesz az ellenség, milyen szögben kell rá célozni. A különböző fajta ellenségeket viszont csak bizonyos tornyok tudják lelőni!
 
 Ne próbáld InfoC-n ezt beadni, én már megtettem 😉.
